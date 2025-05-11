@@ -21,7 +21,7 @@ Clone this repository to your local machine using Git:
 ** git clone https://github.com/whoisshanzid/ConsoleSudoku.git
 **
 
-3. Navigate to the Project Directory
+### 3. Navigate to the Project Directory
 Open a terminal and navigate to the project directory:
 
 bash
@@ -29,7 +29,7 @@ Copy
 Edit
 cd ConsoleSudoku
 
-4. Run the Game
+### 4. Run the Game
 To start playing the Sudoku game, simply run the Python script:
 
 

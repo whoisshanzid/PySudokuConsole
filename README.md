@@ -20,3 +20,33 @@ Clone this repository to your local machine using Git:
 
 ** git clone https://github.com/whoisshanzid/ConsoleSudoku.git
 **
+
+3. Navigate to the Project Directory
+Open a terminal and navigate to the project directory:
+
+bash
+Copy
+Edit
+cd ConsoleSudoku
+4. Run the Game
+To start playing the Sudoku game, simply run the Python script:
+
+bash
+Copy
+Edit
+python sudoku_game.py
+Requirements
+Python 3.x
+
+No additional libraries are required for this project, as it uses basic Python functions.
+
+How to Play
+The game will show you a partially filled Sudoku board.
+
+You will be prompted to enter a row (0-8), column (0-8), and the number (1-9) you want to place.
+
+The game will check if the move is valid.
+
+If the move is valid, it will update the board. If the move is invalid, it will prompt you to try again.
+
+Once the board is completely filled with valid moves, the game will congratulate you for solving the puzzle!

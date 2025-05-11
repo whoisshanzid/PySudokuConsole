@@ -44,7 +44,7 @@ Python 3.x
 No additional libraries are required for this project, as it uses basic Python functions.
 
 
-How to Play
+## How to Play
 The game will show you a partially filled Sudoku board.
 
 

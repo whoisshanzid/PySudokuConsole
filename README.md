@@ -17,12 +17,6 @@ If you don't have Python installed, download and install the latest version from
 ### 2. Clone the Repository
 Clone this repository to your local machine using Git:
 
-```bash
-**git clone https://github.com/yourusername/ConsoleSudoku.git
-###3. Navigate to the Project Directory
-Open a terminal and navigate to the project directory:
 
-bash
-Copy
-Edit
-cd ConsoleSudoku**
+** git clone https://github.com/whoisshanzid/ConsoleSudoku.git
+**

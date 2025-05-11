@@ -18,4 +18,4 @@ If you don't have Python installed, download and install the latest version from
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/ConsoleSudoku.git
+git clone https://github.com/whoisshanzid/ConsoleSudoku.git
